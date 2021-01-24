@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "meta",
+      "rootUri": "file:///home/snlucas/.pub-cache/hosted/pub.dartlang.org/meta-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "data_structures",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-01-21T22:09:20.071819Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0-214.0.dev"
+}
